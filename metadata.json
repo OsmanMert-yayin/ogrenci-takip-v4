@@ -1,0 +1,6 @@
+{
+  "name": "Öğrenci Takip v4",
+  "description": "Kur'an kursu ve eğitim kurumları için modüler, hızlı ve PWA uyumlu öğrenci ve ders takip sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
